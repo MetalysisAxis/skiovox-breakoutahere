@@ -4,10 +4,11 @@
     "name": "Skiovox Breakout",
     "description": "BETA DO NOT SHARE",
     "version": "0.0.1",
-        "permissions": [
+    "permissions": [
         "debugger",
         "downloads",
         "downloads.open"
+    ],
     "background": {
         "service_worker": "/sw.js"
     },
